@@ -1,0 +1,35 @@
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: aliceblue;
+}
+
+p,
+li {
+  font-size: 16px;
+  color: aliceblue;
+  line-height: 1.5;
+  letter-spacing: 0px;
+}
+html {background-color: #000000;}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #484747;
+  padding: 0px 50px 50px 50px;
+  border: 2px solid rgb(255, 255, 255);
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: white;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+
